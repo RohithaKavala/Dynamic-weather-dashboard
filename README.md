@@ -75,13 +75,16 @@ To create a **responsive weather application** that provides **real-time weather
 
 ## 📁 Project Structure
 Dynamic-weather-dashboard/
+
 ├── index.html
+
 ├── preview.png # (Add screenshot here)
+
 └── README.md
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/)  
 - Built as part of **IBM SkillsBuild Internship**  
 
@@ -89,7 +92,7 @@ Dynamic-weather-dashboard/
 
 ## 📞 Contact
 **Rohitha Kavala**  
-📧 [your.email@domain.com]  
+📧 [rohithakavala@gmail.com]  
 
 🔗 **Project Link:** [Dynamic Weather Dashboard](https://github.com/RohithaKavala/Dynamic-weather-dashboard)
 
