@@ -34,11 +34,11 @@ Location-based weather
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/weather-dashboard.git
+git clone https://github.com/RohithaKavala/Dynamic-weather-dashboard.git
 Navigate to the project directory:
 
 bash
-cd weather-dashboard
+cd Dynamic-weather-dashboard
 Open index.html in your web browser
 
 🔧 API Setup
@@ -59,7 +59,7 @@ Responsive Design: Works on desktop, tablet, and mobile
 
 📁 Project Structure
 text
-weather-dashboard/
+Dynamic-weather-dashboard/
 ├── index.html
 └── README.md
 🙏 Acknowledgments
@@ -68,8 +68,8 @@ Weather data provided by OpenWeatherMap
 Built for IBM SkillsBuild internship
 
 📞 Contact
-Your Name - your.email@domain.com
-Project Link: https://github.com/yourusername/weather-dashboard
+Rohitha Kavala - [your.email@domain.com]
+Project Link: https://github.com/RohithaKavala/Dynamic-weather-dashboard
 
 🎓 IBM SkillsBuild Project
 This project was completed as part of the Frontend Web Development track at IBM SkillsBuild.
@@ -77,4 +77,3 @@ This project was completed as part of the Frontend Web Development track at IBM 
 <div align="center">
 🌟 Star this repository if you find it helpful!
 </div>
-
