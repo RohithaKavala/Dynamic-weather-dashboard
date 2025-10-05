@@ -40,10 +40,9 @@ To create a **responsive weather application** that provides **real-time weather
 
 ## 📸 Preview Screenshot
 <p align="center">
-  <img src="preview.png" alt="Weather Dashboard Screenshot" width="600"/>
+  <img src="image.png" alt="Weather Dashboard Screenshot" width="600"/>
 </p>
 
-*(Replace `preview.png` with the actual screenshot of your project in the repo root.)*
 
 ---
 
@@ -78,7 +77,7 @@ Dynamic-weather-dashboard/
 
 ├── index.html
 
-├── preview.png # (Add screenshot here)
+├──image.png
 
 └── README.md
 
